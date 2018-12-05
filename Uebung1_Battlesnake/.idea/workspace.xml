@@ -1,144 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b65bfa6-aaa8-4cef-89a3-a3338b53bb3b" name="Default" comment="" />
+    <list default="true" id="2b65bfa6-aaa8-4cef-89a3-a3338b53bb3b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Übung3_QLearning/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1649253039">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="29" />
-          <entry key="py" value="2469" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="2469" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1233023967">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="dic" value="1" />
-          <entry key="py" value="6" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Dictionary" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="43" />
-          <entry key="txt" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="43" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="349187351">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="720" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="720" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="7" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-458514914">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="52" />
-          <entry key="py" value="2473" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="2525" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="18" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="18" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -177,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/environment/game_renderer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3211">
-              <caret line="217" column="85" selection-start-line="217" selection-start-column="85" selection-end-line="217" selection-end-column="85" />
+            <state relative-caret-position="180">
+              <caret line="178" column="30" lean-forward="true" selection-start-line="178" selection-start-column="30" selection-end-line="178" selection-end-column="30" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <element signature="e#3391#3542#0" />
@@ -189,15 +61,17 @@
                 <element signature="e#3976#4394#0" />
                 <element signature="e#4502#4689#0" />
                 <element signature="e#4775#5425#0" />
+                <element signature="e#6485#8364#0" />
+                <element signature="e#8464#9370#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/environment/models/constants.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="114">
               <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="e#51#116#0" />
@@ -248,7 +122,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -298,28 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Übung1_Battlesnake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Übung1_Battlesnake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Übung1_Battlesnake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Übung1_Battlesnake" type="462c0819:PsiDirectoryNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Übung1_Battlesnake" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Übung1_Battlesnake" type="462c0819:PsiDirectoryNode" />
-              <item name="environment" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -373,7 +226,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="2" Folder0="C:\Users\Sunni\spelling\german" Folder1="C:\Users\Sunni\Google Drive\Master\WiSe18_19\AI-GAME" CustomDictionaries="2" CustomDictionary0="$USER_HOME$/spelling/german/german.dic" CustomDictionary1="$PROJECT_DIR$/../german.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="2" Folder0="C:\Users\Sunni\spelling\german" Folder1="C:\Users\Sunni\Google Drive\Master\WiSe18_19\AI-Game" CustomDictionaries="2" CustomDictionary0="$USER_HOME$/spelling/german/german.dic" CustomDictionary1="$PROJECT_DIR$/../german.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -413,14 +266,11 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.36720142" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -569,17 +419,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/environment/game_renderer.py">
+    <entry file="file://$PROJECT_DIR$/environment/models/constants.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3211">
-          <caret line="217" column="85" selection-start-line="217" selection-start-column="85" selection-end-line="217" selection-end-column="85" />
+        <state relative-caret-position="114">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#3391#3542#0" />
-            <element signature="e#3599#3892#0" />
-            <element signature="e#3976#4394#0" />
-            <element signature="e#4502#4689#0" />
-            <element signature="e#4775#5425#0" />
+            <element signature="e#51#116#0" />
           </folding>
         </state>
       </provider>
@@ -595,12 +440,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/environment/models/constants.py">
+    <entry file="file://$PROJECT_DIR$/environment/game_renderer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="178" column="30" lean-forward="true" selection-start-line="178" selection-start-column="30" selection-end-line="178" selection-end-column="30" />
           <folding>
-            <element signature="e#51#116#0" />
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#3391#3542#0" />
+            <element signature="e#3599#3892#0" />
+            <element signature="e#3976#4394#0" />
+            <element signature="e#4502#4689#0" />
+            <element signature="e#4775#5425#0" />
+            <element signature="e#6485#8364#0" />
+            <element signature="e#8464#9370#0" />
           </folding>
         </state>
       </provider>
