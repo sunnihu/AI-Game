@@ -1,0 +1,9 @@
+{
+  "width": 8,
+  "height": 4,
+  "start_position": [7,0],
+  "end_positions": [[0, 0], [1, 0], [2, 0], [3, 0], [4, 0], [5, 0], [6, 0]],
+  "end_rewards": [10.0, -40.0, -40.0, -40.0, -40.0, -40.0, -40.0],
+  "blocked_positions": [],
+  "default_reward": -0.2
+}
