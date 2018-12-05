@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b65bfa6-aaa8-4cef-89a3-a3338b53bb3b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Übung3_QLearning/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uebung1_Battlesnake/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Uebung1_Battlesnake/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Uebung1_Battlesnake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Uebung1_Battlesnake/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/agents/KILabAgent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/environment/game_renderer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="156" column="26" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/environment/models/constants.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/environment/models/snake.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="46" />
+              <folding>
+                <element signature="e#1628#1667#0" />
+                <element signature="e#2230#2276#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/environment/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1215">
+              <caret line="35" column="19" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1880#2049#0" />
+                <element signature="e#2097#2332#0" />
+                <element signature="e#2382#2623#0" />
+                <element signature="e#2671#2760#0" />
+                <element signature="e#2796#3191#0" />
+                <element signature="e#3789#4987#0" />
+                <element signature="e#4223#4344#0" />
+                <element signature="e#5043#6067#0" />
+                <element signature="e#7269#7446#0" />
+                <element signature="e#8178#8775#0" />
+                <element signature="e#8959#9269#0" />
+                <element signature="e#9317#9339#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/environment/battlesnake_environment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stacked_frames</find>
+      <find>StateSerializer</find>
+      <find>serializer</find>
+      <find>obser</find>
+      <find>frame</find>
+      <find>seri</find>
+      <find>ser</find>
+      <find>EnvironmentRenderer</find>
+      <find>renderer</find>
+      <find>_get_direction</find>
+      <find>get_health</find>
+      <find>_grid_cache_invalidate</find>
+      <find>won</find>
+      <find>self.snakes</find>
+      <find>select rand</find>
+      <find>select</find>
+      <find>print</find>
+      <find>random</find>
+      <find>delta</find>
+      <find>ATT</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/environment/agents/BaseAgent.py" />
+        <option value="$PROJECT_DIR$/environment/agents/RandomAgent.py" />
+        <option value="$PROJECT_DIR$/snake.py" />
+        <option value="$PROJECT_DIR$/environment/state.py" />
+        <option value="$PROJECT_DIR$/environment/serializers/state_serializer.py" />
+        <option value="$PROJECT_DIR$/environment/environment_renderer.py" />
+        <option value="$PROJECT_DIR$/environment/constants.py" />
+        <option value="$PROJECT_DIR$/environment/game_object.py" />
+        <option value="$PROJECT_DIR$/environment/snake.py" />
+        <option value="$PROJECT_DIR$/environment/game_renderer_video.py" />
+        <option value="$PROJECT_DIR$/agents/HumanPlayer.py" />
+        <option value="$PROJECT_DIR$/environment/models/gameobject.py" />
+        <option value="$PROJECT_DIR$/environment/models/wall.py" />
+        <option value="$PROJECT_DIR$/environment/models/position.py" />
+        <option value="$PROJECT_DIR$/util/kl_priority_queue.py" />
+        <option value="$PROJECT_DIR$/environment/models/fruit.py" />
+        <option value="$PROJECT_DIR$/environment/models/empty_field.py" />
+        <option value="$PROJECT_DIR$/environment/models/game_object.py" />
+        <option value="$PROJECT_DIR$/environment/models/constants.py" />
+        <option value="$PROJECT_DIR$/environment/models/grid_map.py" />
+        <option value="$PROJECT_DIR$/environment/models/snake.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/agents/BaseAgent.py" />
+        <option value="$PROJECT_DIR$/agents/RandomAgent.py" />
+        <option value="$PROJECT_DIR$/agents/SimpleAgent.py" />
+        <option value="$PROJECT_DIR$/environment/battlesnake_environment.py" />
+        <option value="$PROJECT_DIR$/environment/game_renderer.py" />
+        <option value="$PROJECT_DIR$/environment/game.py" />
+        <option value="$PROJECT_DIR$/agents/FinnAgentO.py" />
+        <option value="$PROJECT_DIR$/agents/minified/FinnAgent.py" />
+        <option value="$PROJECT_DIR$/run_game.py" />
+        <option value="$PROJECT_DIR$/agents/KILabAgent.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="width" value="1910" />
+    <option name="height" value="1170" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Übung2_BattlesnakeBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Übung2_BattlesnakeBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Übung2_BattlesnakeBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Übung2_BattlesnakeBot" type="462c0819:PsiDirectoryNode" />
+              <item name="agents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Übung2_BattlesnakeBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Übung2_BattlesnakeBot" type="462c0819:PsiDirectoryNode" />
+              <item name="agents" type="462c0819:PsiDirectoryNode" />
+              <item name="minified" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Übung2_BattlesnakeBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Übung2_BattlesnakeBot" type="462c0819:PsiDirectoryNode" />
+              <item name="environment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Übung2_BattlesnakeBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Übung2_BattlesnakeBot" type="462c0819:PsiDirectoryNode" />
+              <item name="environment" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Übung3_QLearning" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/environment/models" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="run_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1_Snake" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="C:\Users\Sunni\spelling\german" CustomDictionaries="1" CustomDictionary0="$USER_HOME$/spelling/german/german.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b65bfa6-aaa8-4cef-89a3-a3338b53bb3b" name="Default" comment="" />
+      <created>1538463689547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538463689547</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21939586" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290793" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26164874" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43189964" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956523" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.28853047" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/site-packages/matplotlib/image.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/site-packages/matplotlib/gridspec.py" />
+    <entry file="file://$PROJECT_DIR$/environment/environment_statistics.py" />
+    <entry file="file://$USER_HOME$/anaconda/envs/py3/lib/python3.6/site-packages/traitlets/traitlets.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/site-packages/matplotlib/colors.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/site-packages/matplotlib/pyplot.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-2079596650/cv2/cv2/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-2079596650/pygame/constants.py" />
+    <entry file="file://$PROJECT_DIR$/environment/models/wall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/py3/lib/python3.6/queue.py" />
+    <entry file="file://$PROJECT_DIR$/environment/models/empty_field.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/game_renderer_video.py" />
+    <entry file="file://$PROJECT_DIR$/environment/models/fruit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agents/SimpleAgent.py" />
+    <entry file="file://$PROJECT_DIR$/agents/HumanPlayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agents/RandomAgent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agents/FinnAgentO.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/kl_priority_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/models/position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agents/minified/FinnAgent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="286" column="22" selection-start-line="286" selection-start-column="16" selection-end-line="286" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/models/game_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agents/BaseAgent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/models/grid_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agents/KILabAgent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1215">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1880#2049#0" />
+            <element signature="e#2097#2332#0" />
+            <element signature="e#2382#2623#0" />
+            <element signature="e#2671#2760#0" />
+            <element signature="e#2796#3191#0" />
+            <element signature="e#3789#4987#0" />
+            <element signature="e#4223#4344#0" />
+            <element signature="e#5043#6067#0" />
+            <element signature="e#7269#7446#0" />
+            <element signature="e#8178#8775#0" />
+            <element signature="e#8959#9269#0" />
+            <element signature="e#9317#9339#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/models/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/models/snake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="46" />
+          <folding>
+            <element signature="e#1628#1667#0" />
+            <element signature="e#2230#2276#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/battlesnake_environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment/game_renderer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="156" column="26" selection-start-line="156" selection-start-column="21" selection-end-line="156" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
