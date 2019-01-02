@@ -1,0 +1,24 @@
+{
+    "env": "LunarLander-v2",
+    "episodes": 5000,
+    "render_episode_interval": 50,
+    "max_episode_length": 1000,
+
+    "frame_stack": 1,
+
+    "replay_buffer_size": 50000,
+    "training_interval": 4,
+    "batch_size": 128,
+    "hidden_dim": 128,
+
+    "learning_rate": 0.0005,
+    "gamma": 0.99,
+    "target_update_rate": 0.001,
+
+    "epsilon_min": 0.02,
+    "epsilon_max": 1.0,
+    "epsilon_decay": 0.999,
+
+    "dueling": true,
+    "double": true
+}

@@ -1,0 +1,24 @@
+{
+    "env": "PongSmall-v0",
+    "episodes": 100000,
+    "render_episode_interval": 100,
+    "max_episode_length": 10000,
+
+
+    "frame_stack": 4,
+    "replay_buffer_size": 50000,
+    "training_interval": 4,
+    "batch_size": 32,
+    "hidden_dim": 512,
+
+    "learning_rate": 0.0001,
+    "gamma": 0.99,
+    "target_update_rate": 0.999,
+
+    "epsilon_min": 0.01,
+    "epsilon_max": 0.4,
+    "epsilon_decay": 0.999999,
+
+    "dueling": true,
+    "double": true
+}
